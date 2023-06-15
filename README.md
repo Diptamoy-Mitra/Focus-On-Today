@@ -1,3 +1,17 @@
+Hosted Link:- https://focus-on-today.vercel.app
+
+preview of project:
+![Screenshot (58)](https://github.com/Diptamoy-Mitra/Focus-On-Today/assets/91617575/118ddf34-a3b2-44ca-be2d-5deb94d4d4a3)
+![Screenshot (56)](https://github.com/Diptamoy-Mitra/Focus-On-Today/assets/91617575/ad3d83fa-94f1-4003-9b6b-b63c3d94000a)
+![Screenshot (57)](https://github.com/Diptamoy-Mitra/Focus-On-Today/assets/91617575/add16e4a-b419-4e96-95fd-b80e08119a56)
+
+
+Description:- 
+    Its actually A task management or Day to Day Scheduling Application.You can use it as To Do List.Its fullstack Application in which involves CRUD operations.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
